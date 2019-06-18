@@ -1,4 +1,4 @@
-const pq = require("pg");
+const pg = require("pg");
 const settings = require("./settings");
 
 const knex = require("knex")({
