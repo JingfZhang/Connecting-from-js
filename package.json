@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JingfZhang/connecting-from-js#readme",
   "dependencies": {
+    "knex": "^0.17.6",
     "pg": "^7.11.0"
   }
 }
